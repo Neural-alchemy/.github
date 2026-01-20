@@ -24,28 +24,15 @@ Projects here are designed for stability, clarity, and long-term maintenance.
 ---
 
 ## Core Projects
+### offensive security tools
+- [PromptXploit](promptxploit) — study how language models can be manipulated and where weaknesses appear
 
-### PromptXploit  
-Framework for exploring, testing, and understanding prompt-based vulnerabilities.
-
-- [PromptXploit](promptxploit) — study how language models can be manipulated and where weaknesses appear  
-
----
-
-### PromptShield  
-Defensive system for detecting and mitigating prompt-based attacks.
-
+### defensive security tools
 - [PromptShield](promptshield) — protect AI apps from injection, misuse, and manipulation  
 
----
-
 ## Experimental Work
-
 Early-stage ideas, fast prototypes, and research experiments live in a separate organization.
-
 - Neuralchemy Labs — rapid experiments and vibecoding  
-
----
 
 ## Focus Areas
 
