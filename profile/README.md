@@ -1,46 +1,49 @@
 <p align="center">
-  <img src="logo.png" width="140" />
+  <img src="logo.png" width="120" />
 </p>
 
 <h1 align="center">Neuralchemy</h1>
 
 <p align="center">
-  Building reliable systems for AI security, reasoning, and developer tooling.
+  Build secure, reliable, and long-term AI systems focused on safety, reasoning, and developer tooling.
 </p>
 
 ---
 
-## What is Neuralchemy?
+## What We Build
 
-Neuralchemy focuses on creating production-grade tools and frameworks in the AI and developer infrastructure space.
+Neuralchemy develops production-grade tools and frameworks for:
 
-Projects in this organization are designed to be:
-- Stable and maintainable  
-- Security-focused  
-- Well-documented  
-- Built for long-term use  
+- AI security and robustness  
+- Prompt injection research and defense  
+- Reasoning and evaluation systems  
+- Developer-first infrastructure  
 
-Experimental and fast-moving ideas are developed separately in Neuralchemy Labs.
+Projects here are designed for stability, clarity, and long-term maintenance.
 
 ---
 
 ## Core Projects
 
-### PromptXploit
+### PromptXploit  
+Framework for exploring, testing, and understanding prompt-based vulnerabilities.
 
-Framework for exploring and testing prompt-based vulnerabilities.  
-Used to study how language models can be manipulated and where weaknesses emerge.
-
-→ https://github.com/Neural-alchemy/promptxploit
+- [PromptXploit](promptxploit) — study how language models can be manipulated and where weaknesses appear  
 
 ---
 
-### PromptShield
+### PromptShield  
+Defensive system for detecting and mitigating prompt-based attacks.
 
-Defensive system for detecting, filtering, and mitigating prompt-based attacks.  
-Built to protect AI applications from prompt injection, misuse, and manipulation.
+- [PromptShield](promptshield) — protect AI apps from injection, misuse, and manipulation  
 
-→ https://github.com/Neural-alchemy/promptshield
+---
+
+## Experimental Work
+
+Early-stage ideas, fast prototypes, and research experiments live in a separate organization.
+
+- Neuralchemy Labs — rapid experiments and vibecoding  
 
 ---
 
@@ -48,29 +51,20 @@ Built to protect AI applications from prompt injection, misuse, and manipulation
 
 Neuralchemy works primarily in:
 
-- AI security and safety  
+- AI safety and security  
 - Prompt injection and defense  
 - Reasoning systems  
+- Evaluation frameworks  
 - Developer tooling  
 - Long-term maintainable software  
-
----
-
-## Neuralchemy Labs
-
-Early-stage experiments and rapid prototypes live in Neuralchemy Labs.  
-Ideas are tested there before being promoted to the main organization.
-
-Neuralchemy Labs:  
-→ https://github.com/Neural-alchemy-Labs
 
 ---
 
 ## Philosophy
 
 - Build carefully  
-- Design for failure  
 - Think long-term  
+- Design for failure  
 - Ship what matters  
 
-Neuralchemy is not about chasing trends — it’s about building tools that last.
+Neuralchemy is about creating tools that last, not chasing trends.
