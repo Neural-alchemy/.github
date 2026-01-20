@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" style="max-width: 90%;" />
+  <img src="logo.png" style="max-height: 70px; max-width: 90%;" />
 </p>
 
 
