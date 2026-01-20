@@ -1,32 +1,76 @@
-# Neuralchemy
+<p align="center">
+  <img src="logo.png" width="140" />
+</p>
 
-Neuralchemy focuses on building stable, production-ready tools and frameworks in AI and developer tooling.
+<h1 align="center">Neuralchemy</h1>
 
----
-
-## Projects
-
-[![PromptXploit](https://img.shields.io/badge/PromptXploit-View-red?style=for-the-badge)](https://github.com/Neural-alchemy/promptxploit)  
-Framework for exploring and testing prompt exploitation techniques.
-
-[![PromptShield](https://img.shields.io/badge/PromptShield-View-green?style=for-the-badge)](https://github.com/Neural-alchemy/promptshield)  
-Defensive system for detecting and mitigating prompt-based attacks.
+<p align="center">
+  Building reliable systems for AI security, reasoning, and developer tooling.
+</p>
 
 ---
 
-## Focus
+## What is Neuralchemy?
 
-Neuralchemy is dedicated to:
-- Production-grade tooling  
-- Security and robustness in AI  
-- Developer-first design  
-- Long-term maintainability  
+Neuralchemy focuses on creating production-grade tools and frameworks in the AI and developer infrastructure space.
+
+Projects in this organization are designed to be:
+- Stable and maintainable  
+- Security-focused  
+- Well-documented  
+- Built for long-term use  
+
+Experimental and fast-moving ideas are developed separately in Neuralchemy Labs.
 
 ---
 
-## Experimental Work
+## Core Projects
 
-Early-stage experiments live in Neuralchemy Labs.
+### PromptXploit
 
-[![Neuralchemy Labs](https://img.shields.io/badge/Neuralchemy--Labs-Experiments-blue?style=for-the-badge)](https://github.com/Neural-alchemy-Labs)
+Framework for exploring and testing prompt-based vulnerabilities.  
+Used to study how language models can be manipulated and where weaknesses emerge.
 
+→ https://github.com/Neural-alchemy/promptxploit
+
+---
+
+### PromptShield
+
+Defensive system for detecting, filtering, and mitigating prompt-based attacks.  
+Built to protect AI applications from prompt injection, misuse, and manipulation.
+
+→ https://github.com/Neural-alchemy/promptshield
+
+---
+
+## Focus Areas
+
+Neuralchemy works primarily in:
+
+- AI security and safety  
+- Prompt injection and defense  
+- Reasoning systems  
+- Developer tooling  
+- Long-term maintainable software  
+
+---
+
+## Neuralchemy Labs
+
+Early-stage experiments and rapid prototypes live in Neuralchemy Labs.  
+Ideas are tested there before being promoted to the main organization.
+
+Neuralchemy Labs:  
+→ https://github.com/Neural-alchemy-Labs
+
+---
+
+## Philosophy
+
+- Build carefully  
+- Design for failure  
+- Think long-term  
+- Ship what matters  
+
+Neuralchemy is not about chasing trends — it’s about building tools that last.
