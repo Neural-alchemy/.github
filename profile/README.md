@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  Build secure, reliable, and long-term AI systems focused on safety, reasoning, and developer tooling.
+ <h4 Build secure, reliable, and long-term AI systems focused on safety, reasoning, and developer tooling. /h4>
 </p>
 
 ---
