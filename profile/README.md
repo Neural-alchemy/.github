@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="logo.png" width="120" />
+  <img src="logo.png" width="220" />
 </p>
 
-<h1 align="center">Neuralchemy</h1>
 
 <p align="center">
   Build secure, reliable, and long-term AI systems focused on safety, reasoning, and developer tooling.
