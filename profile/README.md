@@ -24,8 +24,8 @@ Projects here are designed for stability, clarity, and long-term maintenance.
 
 ### Defensive Security Tools
 - [**PromptShield**](https://github.com/neuralchemy/SecurePrompt) — Protect AI apps from injection, misuse, and manipulation  
-  [![Dataset](https://img.shields.io/badge/🤗%20Dataset-neuralchemy%2Fprompt--injection--benign--dataset-blue)](https://huggingface.co/datasets/neuralchemy/prompt-injection-benign-dataset)
-  [![Model](https://img.shields.io/badge/🤗%20Model-100%25%20Accuracy-brightgreen)](https://huggingface.co/neuralchemy/prompt-injection-detector-ml-models)
+  [![Dataset](https://img.shields.io/badge/🤗%20Dataset-neuralchemy%2Fprompt--injection--benign--dataset-blue)](https://huggingface.co/datasets/neuralchemy/Prompt-injection-dataset)
+  [![ Model](https://img.shields.io/badge/🤗%20Model-100%25%20Accuracy-brightgreen)](https://huggingface.co/neuralchemy/prompt-injection-detector-ml-models)
   
   **100% test accuracy** • 10,674 real-world samples • Production-ready ML models
 
