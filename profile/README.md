@@ -23,7 +23,7 @@ Projects here are designed for stability, clarity, and long-term maintenance.
 - [**PromptXploit**](https://github.com/neuralchemy/promptxploit) — Study how language models can be manipulated and where weaknesses appear
 
 ### Defensive Security Tools
-- [**PromptShield**](https://github.com/neuralchemy/SecurePrompt) — Protect AI apps from injection, misuse, and manipulation  
+- [**PromptShield**](https://github.com/Neural-alchemy/promptshield) — Protect AI apps from injection, misuse, and manipulation  
   [![Dataset](https://img.shields.io/badge/🤗%20Dataset-neuralchemy%2Fprompt--injection--benign--dataset-blue)](https://huggingface.co/datasets/neuralchemy/Prompt-injection-dataset)
   [![ Model](https://img.shields.io/badge/🤗%20Model-100%25%20Accuracy-brightgreen)](https://huggingface.co/neuralchemy/prompt-injection-detector-ml-models)
   
