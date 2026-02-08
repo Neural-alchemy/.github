@@ -20,7 +20,7 @@ Projects here are designed for stability, clarity, and long-term maintenance.
 ## Core Projects
 
 ### Offensive Security Tools
-- [**PromptXploit**](https://github.com/neuralchemy/promptxploit) — Study how language models can be manipulated and where weaknesses appear
+- [**PromptXploit**](https://github.com/Neural-alchemy/promptxploit) — Study how language models can be manipulated and where weaknesses appear
 
 ### Defensive Security Tools
 - [**PromptShield**](https://github.com/Neural-alchemy/promptshield) — Protect AI apps from injection, misuse, and manipulation  
