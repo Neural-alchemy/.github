@@ -42,6 +42,7 @@ Early-stage ideas, fast prototypes, and research experiments live in a separate 
 Neuralchemy works primarily in:
 
 - AI safety and security  
+- cybersecurity both red and blue team
 - Prompt injection and defense  
 - Reasoning systems  
 - Evaluation frameworks  
@@ -50,14 +51,8 @@ Neuralchemy works primarily in:
 
 ---
 
-## Philosophy
 
-- Build carefully  
-- Think long-term  
-- Design for failure  
-- Ship what matters  
 
-Neuralchemy is about creating tools that last, not chasing trends.
 
 ---
 
